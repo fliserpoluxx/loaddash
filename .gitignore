@@ -13,3 +13,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.idea
+out
+*.iml
+libraries/spigot_server.jar

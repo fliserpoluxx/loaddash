@@ -1,0 +1,29 @@
+###############################
+#           Loadash           #
+#       Version : 0.0.1       #
+###############################
+
+# Redis Login
+redis:
+  hostname: "127.0.0.1"
+  password: ""
+  database: 1
+  port: 6379
+  use-password: true
+  
+###############################
+#      Server Settings        #
+###############################
+
+# Coordinator
+server-uuid: <serveruuid>
+coordinator-uuid: <coordinatoruuid>
+
+# GolemaServer
+gameType: <gameType>
+serverType: <serverType>
+defaultServerStatus: <defaultServerStatus>
+mapInfos: <mapInfos>
+
+uuidHost: <uuidHost>
+nameHost: <nameHost>

@@ -1,0 +1,5 @@
+main: net.golema.loadash.minecraft.LoadashMinecraft
+name: Loadash
+load: STARTUP
+author: Matthieu
+version: 1.0.0

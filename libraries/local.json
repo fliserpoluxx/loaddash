@@ -1,0 +1,12 @@
+{
+  "_comment": "Local coordinator configuration",
+  "name": null,
+  "uuid": null,
+  "key": null,
+  "coord-ip": "127.0.0.1",
+  "coord-port": 25501,
+  "resources": {},
+  "attributes": [],
+  "strings": {},
+  "use-name-for-logs": true
+}

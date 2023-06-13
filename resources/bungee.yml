@@ -1,0 +1,4 @@
+main: net.golema.loadash.bungeecord.LoadashBungeeCord
+name: Loadash
+author: Matthieu
+version: 1.0.0
