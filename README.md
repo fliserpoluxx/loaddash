@@ -6,4 +6,8 @@ Loadash est un système de serveur à la demande marchand avec playpen. Ce code 
 
 Instalation
 --
-Pour installer loadash il vous suffit dans un premier temps de démarer un serveur network playpen avec la commande: `playpen-network`. Puis v
+Dans un premier temps, il faut compresser le Loadash à l'aide de Maven ou autre. Enssuite, pour installer loadash il vous suffit dans un premier temps de démarer un serveur network playpen avec la commande: `playpen-network`. Après que cela est fait, arrêter ce dernier et gliser le Loadash.jar dans le docier plugin de votre network playpen. Redémarer votre network et complété le fichier de configuration de votre base de donné Redis qui se trouve dans le docier qui est apparut dans le docier plugin de votre network (Il doit s'appeler Loadash). Ensuite la partie playpen est finit. Après cela il vous suffirat de démarer un proxy (type: BungeeCord). Enssuite configuré à votre guise le fichier de configuration dans le docier qui est apparut (Par exemple choisisser si vous voulez avoir les host ou autre et configurer le serveur Redis.)
+
+Ajout de Type de serveur
+--
+Loadash va dès son lancement sur le network essayé de démarer automatiquement les serveurs néssaire.
