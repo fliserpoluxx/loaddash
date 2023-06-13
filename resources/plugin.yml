@@ -1,5 +1,5 @@
 main: net.golema.loadash.minecraft.LoadashMinecraft
 name: Loadash
 load: STARTUP
-author: Matthieu
+author: FliserPolux
 version: 1.0.0
